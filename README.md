@@ -1,2 +1,2 @@
 # Python-Basics
-This repository includes basics of Pyhon for beginners
+This repository includes basics of Python for beginners
